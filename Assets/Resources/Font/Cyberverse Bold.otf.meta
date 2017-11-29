@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 26338af133dbd4ff8ac6563a5a4128f2
+timeCreated: 1503283087
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cyberverse
+  fontNames:
+  - Cyberverse
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
